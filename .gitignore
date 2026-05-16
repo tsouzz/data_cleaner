@@ -1,0 +1,11 @@
+*.db
+*.db-shm
+*.db-wal
+
+*.log
+
+.venv/
+__pycache__/
+*.pyc
+
+to_delete/
